@@ -13,6 +13,7 @@ namespace OOP2
             //{
 
             //}
+            Console.WriteLine("müşteri eklendi " + musteri.Id);
         }
     }
 }
